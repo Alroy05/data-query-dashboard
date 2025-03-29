@@ -20,7 +20,7 @@
 
 ## Installation ⚙️
 
-1. Clone the repository: git clone https://github.com/Alroy05/oil-imports-dashboard.git
+1. Clone the repository: git clone https://github.com/Alroy05/data-query-dashboard.git
 
 2. cd oil-imports-dashboard
 
